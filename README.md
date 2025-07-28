@@ -1,1 +1,1 @@
-demo https://webp-to-png-jpg.vercel.app/￼Enter
+demo https://webp-to-png-jpg.vercel.app/
